@@ -9,3 +9,4 @@ console.log(_.camelCase(var2));
 console.log(_.camelCase(var3));
 console.log(_.camelCase(var4));
 console.log(_.camelCase(var5));
+console.log("commit");
