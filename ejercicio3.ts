@@ -1,0 +1,11 @@
+const _= require('lodash');
+let var1:string='underscore_case';
+let var2:string='first_name';
+let var3:string='Some_Variable';
+let var4:string='Calculate_age';
+let var5:string='delay_departure';
+console.log(_.camelCase(var1));
+console.log(_.camelCase(var2));
+console.log(_.camelCase(var3));
+console.log(_.camelCase(var4));
+console.log(_.camelCase(var5));
